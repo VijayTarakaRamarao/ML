@@ -11,7 +11,7 @@ print(df.head(25))
 
 print("\n")
 # 2. 2 Show the basic statistical description about the data.
-print(df.Duration.describe())
+print(df.describe())
 
 print("\n")
 # 2. 3 Check if the data has null values. a. Replace the null values with the mean
