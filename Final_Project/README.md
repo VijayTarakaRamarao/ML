@@ -6,4 +6,4 @@ STUDENT_ID :- 700742485
 
 Final Project Name: Sarcasm Identification using different Word Embedding Techniques
 
-Final ProjectAND IEEE FORMAT PAPER.
+Final Project & IEEE Format Paper.
